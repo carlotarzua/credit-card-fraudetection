@@ -162,11 +162,11 @@ credit-card-frauddetection/
 
 ## 👩‍💻 About Me
 
-Built by **Carlota Rzua** — passionate about using data science and machine learning to solve real-world problems, with hands-on experience in R, Python, and applied ML workflows.
+Built by **Carlota Arzúa** — passionate about using data science and machine learning to solve real-world problems, with hands-on experience in R, Python, and applied ML workflows.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlota-a-53a75b206/)
 - 🌐 [Portfolio]()
-- 📧 carlotaarzua@email.com
+- 📧 carlotaarzua@gmail.com
 
 ---
 
